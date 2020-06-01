@@ -1,14 +1,18 @@
 #meanstack
-Create your project repository
-Under your project repository create two sub repo namely frontend and backend
+Create your project repository. Give it any name you like.
+Go inside that repository.
 
-Backend: is the node.js application
-backend repo contains all the content
-database name is Issues and collection name is also issues - see the server file for details
+Front End Angular Project:
 
-frontend: 
+1. Create front end angular project name it frontend
+$npm install -g @angular/cli
+$ ng new frontend
+$ng serve --open
+$ng add @angular/material
 
-Front end is for angular
+$ng g c components/list
+$ng g c components/create
+$ng g c components/edit
 
 https://www.youtube.com/watch?v=x2_bcCZg8vQ
 DO NOT NEED BABEL AND BABLE WATCH
