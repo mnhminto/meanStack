@@ -1,14 +1,14 @@
 #meanstack
-Create your project repository
-Under your project repository create two sub repo namely frontend and backend
 
-Backend: is the node.js application
-backend repo contains all the content
-database name is Issues and collection name is also issues - see the server file for details
+1. Clone the repository
+2. Create a monodb database issues and also create a collection and name it the same issues
+3. Insert a document ({ title: "what ever", description:"what ever", responsible:"what ever", severity: "Whatever"})
+4. Go inside backend and give the following command: node server.js
+5. Go inside frontend folder and run the following command: ng server --open
 
-frontend: 
+(Assuming you have angular and node.js and @angualr/cli has beed installed)
 
-Front end is for angular
+See the folloiwng tutoriol series (1 to 4) for details but see my code and his explanation.
 
 https://www.youtube.com/watch?v=x2_bcCZg8vQ
 DO NOT NEED BABEL AND BABLE WATCH
