@@ -9,6 +9,5 @@
 (Assuming you have angular and node.js and @angualr/cli has beed installed)
 
 See the folloiwng tutoriol series (1 to 4) for details but see my code and his explanation.
-
 https://www.youtube.com/watch?v=x2_bcCZg8vQ
 DO NOT NEED BABEL AND BABLE WATCH
